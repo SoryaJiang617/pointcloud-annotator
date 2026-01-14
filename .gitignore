@@ -1,0 +1,10 @@
+
+# dependencies (all workspaces)
+node_modules/
+
+# serverless build
+.aws-sam/
+
+# env files
+.env
+.env.*
