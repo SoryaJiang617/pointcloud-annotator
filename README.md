@@ -22,7 +22,7 @@ This serverless backend is the **production backend used by the frontend**.
 
 ---
 
-## Local Backend (Optional)
+## Local Backend
 
 A local backend is provided for development and architecture comparison.
 
@@ -50,9 +50,3 @@ Features:
 - Create annotations
 - List and delete annotations
 - Communicates with the serverless API
-
-Location:
-/frontend
-├── backend # Local Express backend
-├── frontend # React frontend
-├── serverless # AWS SAM serverless backend
